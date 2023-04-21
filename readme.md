@@ -7,9 +7,6 @@ If you are looking for a simple HTML/vanilla JavaScript version, check [here](ht
 
 ![Demo Gif](/client/src/img/demo2.gif)
 
-<a href="https://www.buymeacoffee.com/ioanmo226" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="51" width="217"></a>
-
-
 ## Features
 - User-friendly interface for making requests to the OpenAI API
 - Responses are displayed in a chat-like format
